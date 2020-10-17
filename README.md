@@ -5,8 +5,8 @@ Daily appointments for one working day
 ### INSTALL EXPO-CLI 
 
 App use expo-cli to create and develop project.
-│   Install expo-cli globally using the package manager of your choice;
-│   for example: `npm install -g expo-cli` to get the latest version
+-   Install expo-cli globally using the package manager of your choice;
+-   for example: `npm install -g expo-cli` to get the latest version
 
 ### To run your project, navigate to the directory and run one of the following yarn commands.
 
