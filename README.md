@@ -15,3 +15,7 @@ App use expo-cli to create and develop project.
 - `yarn android`
 - `yarn ios`
 - `yarn web`
+
+### Screenshot 
+
+![Calendar Timeline on Android & iOS](https://github.com/hockeyrun/daily-timeline/blob/main/my-result-screenshot/Screen%20Shot%202020-10-18%20at%208.48.01%20AM.png "Calendar Timeline")
